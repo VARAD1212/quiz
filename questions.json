@@ -1,0 +1,26 @@
+[
+    {
+      "question": "Inside which HTML element do we put the JavaScript ?",
+      "choice1": "<script>",
+      "choice2": "<javascript>",
+      "choice3": "<js>",
+      "choice4": "<scripting>",
+      "answer": 1
+    },
+    {
+      "question": "Who is principal of VPKBIET ?",
+      "choice1": "Varad Shinde.",
+      "choice2": "Jyoti Kulkarni mam.",
+      "choice3": "Bichkar sir.",
+      "choice4": "Nitin Jadhav sir.",
+      "answer": 3
+    },
+    {
+      "question": " How many divisions are in first year engineering ?",
+      "choice1": "1",
+      "choice2": "5",
+      "choice3": "10",
+      "choice4": "7",
+      "answer": 4
+    }
+  ]
